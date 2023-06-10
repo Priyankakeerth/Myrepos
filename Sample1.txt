@@ -1,0 +1,10 @@
+Modified by priyanka
+
+1.git add filename
+or git add .
+2.git commit -m "message"
+3.git push
+
+
+if you want to see the status 
+1.git status
